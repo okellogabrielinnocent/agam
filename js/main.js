@@ -53,8 +53,8 @@
 	/* syotimer for upcoming event*/
 	$('#simple_timer').syotimer({
 		year: 2020,
-		month: 5,
-		day: 9,
+		month: 1,
+		day: 12,
 		hour: 20,
 		minute: 30
 	});
